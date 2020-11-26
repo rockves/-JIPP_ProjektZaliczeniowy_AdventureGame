@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zaliczenie.Potwor" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Potwor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zaliczenie.Gra" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAAAAAAAAgAAAAAAAAAkIAAAAAAAAAJAAAAAAA=</HashCode>
+      <FileName>Gra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zaliczenie.DisplayManager" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAAAAAAQAAAAAAAAAAAAAAQAIAIA=</HashCode>
+      <FileName>DisplayManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zaliczenie.Bohater" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACABAAAAAQAAgAAAAAAAAAAQAA=</HashCode>
+      <FileName>Bohater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zaliczenie.AsciiDraw" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Zaliczenie.AsciiDraw.Potwor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AsciiDraw.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAAAIAAAQAAA=</HashCode>
+      <FileName>AsciiDraw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zaliczenie.ZywaIstota" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAIAAAAIAgAAEAIEAAAQAAAIAAAAABgAAAEYgA=</HashCode>
+      <FileName>ZywaIstota.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Zaliczenie.ZdolnosciIstot" Collapsed="true">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZdolnosciIstot.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
